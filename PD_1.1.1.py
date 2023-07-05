@@ -5,7 +5,7 @@ os.system('cls')
 print("This Program computes the sum and product of two complex numbers")
 print("A complex number a+ib can be input as a,b")
 a1,b1 = input("Enter the First Complex Number : ").split(",") #Input First Complex Number
-a2,b2 = input("Enter the First Complex Number : ").split(",") #Input Second Complex Number
+a2,b2 = input("Enter the Second Complex Number : ").split(",") #Input Second Complex Number
 
 #Type Casting 
 
